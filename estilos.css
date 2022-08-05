@@ -16,6 +16,7 @@ p{
 .container{
     position: relative;
   }
+
   .caja{
     width: 180px;
     height: 180px;
@@ -62,4 +63,9 @@ p{
   .caja4:hover{
     -webkit-transform: skew(10deg);
     transform: skew(10deg);
+  }
+
+  h2{
+    text-transform: lowercase;
+    color: black;   
   }
